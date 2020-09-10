@@ -1,0 +1,12 @@
+//
+// Created by chen on 2020/9/10.
+//
+
+#ifndef SOMETHINGTEST_MACROS_H
+#define SOMETHINGTEST_MACROS_H
+
+#define UNBUFFER_4KB_PAGE
+#define UNBUFFER_2MB_PAGE
+#define N_PARTITIONS 16384
+
+#endif //SOMETHINGTEST_MACROS_H
